@@ -1,6 +1,4 @@
 # db1
-# News07
-
 
 ## AUTHOR 
 Macharia John
